@@ -1,13 +1,13 @@
 # A Complex-Political-Phenomenon
-Using Machine Learning to predict the winner of the next USA Presidential Election
+The M.E.R.S. Research Facility uses massive multivariate optimizing algorithmic models (MMOAMs), a.k.a. machine learning algorithms to predict the winner of the next USA Presidential Election
 
 ## RESULTS
 The model predicts, with ___% accuracy that ____ will win the Presidential election. Is this model reliable? Read more to find out!
 
 ## Modeling Steps:
-[1] Find the Data
-  - Polling data selected
-  - _Potential issues:_ Bias of the polling station not taken into account
+[1] Retrieve the Data
+  - Selected historical polling data
+  - _Potential issues:_ Bias of the poll not taken into account
   - Data exploration
 
 [2] Transforming the Data:
