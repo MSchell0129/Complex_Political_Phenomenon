@@ -126,7 +126,7 @@ class SQLiteManager:
     def close_connection(self):
         self.session.close()
 
-# Usage example
+# Creating database in the desired path
 database_path = "../../database/Elections_db.sqlite"
 manager = SQLiteManager(database_path)
 manager.create_database()
