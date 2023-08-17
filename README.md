@@ -14,4 +14,5 @@ Hyperlinks to quickly navigate to other subdirectories:
   - The report and modeling results are here.
 - # [script](https://github.com/mike2463/Complex_Political_Phenomenon/tree/main/script)
   - The scripting files for data wrangling and modeling are here.
+- # [Presentation](https://docs.google.com/presentation/d/15QbbEGnUmpQinGf3NZVNDeRaNn2tuR3g/edit#slide=id.p14)
   
