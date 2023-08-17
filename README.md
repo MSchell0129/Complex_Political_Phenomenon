@@ -1,5 +1,5 @@
 # A Complex-Political-Phenomenon
-The M.E.R.S. Research Facility uses massive multivariate optimizing algorithmic models (MMOAMs), a.k.a. machine learning algorithms to predict the winner of the next USA Presidential Election. The model predicts, with 82.5% accuracy that there is a 77% chance that Democrats will win the Presidential election. Is this model reliable? Read more to find out!
+The M.E.R.S. Research Facility uses massive multivariate optimizing algorithmic models (MMOAMs), a.k.a. machine learning algorithms to predict the winner of the next USA Presidential Election. The model predicts that there is a 77.4% that Democrats will win the Presidential electin. Our model predicts with with 82.5% recall (i.e. - 17.5% the model inaccurately states Republican favorability is higher) and 100% precision (i.e, - 100%, the model accurately states Democrat favorability). Read more to find out how!
 
 ## Navigator
 Hyperlinks to quickly navigate to other subdirectories:
