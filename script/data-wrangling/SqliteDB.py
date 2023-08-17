@@ -127,14 +127,14 @@ class SQLiteManager:
         self.session.close()
 
 # Usage example
-database_path = "../election_resources/Elections_db.sqlite"
+database_path = "../../database/Elections_db.sqlite"
 manager = SQLiteManager(database_path)
 manager.create_database()
 
 # Import data for each table
-presidential_polls_csv = "../election_resources/presidential_polls_2016.csv"
-favorability_polls_rv_2019_csv = "../election_resources/favorability_polls_rv_2019.csv"
-favorability_polls_2023_csv = "../election_resources/favorability_polls_2023.csv"
+presidential_polls_csv = "../../data/data-raw/csv_raw/presidential_polls_2016.csv"
+favorability_polls_rv_2019_csv = "../../data/data-raw/csv_raw/favorability_polls_rv_2019.csv"
+favorability_polls_2023_csv = "../../data/data-raw/csv_raw/favorability_polls_2023.csv"
 
 manager.import_csv_to_table(presidential_polls_csv, "presidential_polls_2016")
 manager.import_csv_to_table(favorability_polls_rv_2019_csv, "favorability_polls_rv_2019")
